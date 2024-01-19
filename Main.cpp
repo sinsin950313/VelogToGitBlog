@@ -10,9 +10,12 @@
 
 #include <locale>
 #include <iostream>
+#include <filesystem>
 
 int main(int argc, char* argv[])
 {
+	std::filesystem::path P;
+
 	// UTF-8을 사용하기 위해 로캘 및 코드 컨버터 설정
     std::locale::global(std::locale(".utf8")); // 로캘 설정
 

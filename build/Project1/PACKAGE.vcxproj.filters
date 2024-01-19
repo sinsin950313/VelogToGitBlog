@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sinsi\Desktop\VelogToGitBlog\build\CMakeFiles\d4e988567b730d778587a4b4899eaecd\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{76ECA124-1590-3535-B8E0-E97EE0652AD0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
